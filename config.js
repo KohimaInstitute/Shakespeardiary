@@ -6,7 +6,7 @@ var config = {
     alignment: 'left',
     title: 'CONNIE’S DIARY',
     subtitle: '',
-    byline: 'By THE HIGHLAND INSTITUTE',
+    byline: 'By THE HIGH INSTITUTE',
     footer: 'NegiThokchom at the Highland Institute',
     chapters: [
         {
