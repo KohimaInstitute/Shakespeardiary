@@ -6,8 +6,8 @@ var config = {
     alignment: 'left',
     title: 'CONNIE’S DIARY',
     subtitle: '',
-    byline: 'By THE KOHIMA INSTITUTE',
-    footer: 'NegiThokchom at the Kohima Institute',
+    byline: 'By THE HIGHLAND INSTITUTE',
+    footer: 'NegiThokchom at the Highland Institute',
     chapters: [
         {
             id: 'slug-style-id',
