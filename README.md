@@ -1,3 +1,3 @@
 # shakespeardiary
 storytelling map
-https://highlandinstitute.github.io/shakespeardiary/
+https://thehighlandinstitute.github.io/shakespeardiary/
